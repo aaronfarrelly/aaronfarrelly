@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Aaron Farrelly, I am a third year Computer Science student in Maynooth University, from Ireland.
+My name is Aaron Farrelly, I am a fourth year Computer Science student in Maynooth University, from Ireland.
 
 ### ▶ About Me ◀
 - 💻 Strong passion for coding and love learning more about Computer Science everyday.
